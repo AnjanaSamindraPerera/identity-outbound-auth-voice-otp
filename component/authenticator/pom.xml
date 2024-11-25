@@ -109,7 +109,8 @@
                             org.apache.commons.logging.*; version="${commons-logging.osgi.version.range}",
                             org.osgi.framework,
                             org.osgi.service.component; version="${osgi.service.import.version.range}",
-                            org.wso2.carbon.identity.application.authentication.framework.*,
+                            org.wso2.carbon.identity.application.authentication.framework.*;version="${carbon.identity.version.range}",
+                            org.wso2.carbon.identity.application.common.*;version="${carbon.identity.version.range}",
                             javax.servlet,
                             javax.servlet.http,
                             org.wso2.carbon.extension.identity.helper.*;

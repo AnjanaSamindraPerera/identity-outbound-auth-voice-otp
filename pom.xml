@@ -446,7 +446,7 @@
         <carbon.identity.version>5.23.28</carbon.identity.version>
         <identity.governance.version>1.4.1</identity.governance.version>
         <carbon.identity.event.version>5.18.206</carbon.identity.event.version>
-        <carbon.identity.version.range>[5.16.0,6.0.0)</carbon.identity.version.range>
+        <carbon.identity.version.range>[5.16.0,8.0.0)</carbon.identity.version.range>
         <maven.compiler.plugin.source>1.8</maven.compiler.plugin.source>
         <maven.compiler.plugin.target>1.8</maven.compiler.plugin.target>
         <commons-logging.version>4.4.11</commons-logging.version>
@@ -481,8 +481,8 @@
         <apache.felix.scr.ds.annotations.version>1.2.4</apache.felix.scr.ds.annotations.version>
         <osgi.service.import.version.range>[1.2.0,2.0.0)</osgi.service.import.version.range>
         <import.package.version.commons.logging>[1.2.0,2.0.0)</import.package.version.commons.logging>
-        <carbon.identity.package.import.version.range>[5.14.0, 6.0.0)</carbon.identity.package.import.version.range>
-        <carbon.identity.framework.imp.pkg.version.range>[5.15.28, 6.0.0)
+        <carbon.identity.package.import.version.range>[5.14.0, 8.0.0)</carbon.identity.package.import.version.range>
+        <carbon.identity.framework.imp.pkg.version.range>[5.15.28, 8.0.0)
         </carbon.identity.framework.imp.pkg.version.range>
         <carbon.kernel.package.import.version.range>[4.5.0, 5.0.0)</carbon.kernel.package.import.version.range>
         <carbon.user.api.imp.pkg.version.range>[1.0.1, 2.0.0)</carbon.user.api.imp.pkg.version.range>
